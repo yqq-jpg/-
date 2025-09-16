@@ -80,7 +80,3 @@
 ├── requirements.txt           # Python 依赖库列表
 └── README.md                  # 项目说明文件
 ```
-
-## 📄 许可证
-
-本项目采用 MIT 许可证。详情请见 `LICENSE` 文件。
