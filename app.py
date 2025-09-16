@@ -219,6 +219,13 @@ def show_data_overview(df):
     </div>
     """, unsafe_allow_html=True)
 
+    st.markdown(f"""
+    <div class="chart-analysis">
+    <strong>❗ 数据来源说明:</strong><br>
+    该数据源是kaggle的一个模拟学习的数据源，所以数据完整清晰并且非常理想！
+    </div>
+    """, unsafe_allow_html=True)
+
 def show_user_analysis(df):
     """用户分析"""
     st.markdown('<h2 class="section-header">👥 用户分析</h2>', unsafe_allow_html=True)
@@ -1135,4 +1142,5 @@ def show_user_preference_analysis(df):
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main()
