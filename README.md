@@ -3,7 +3,7 @@
 
 这是一个基于 Streamlit 构建的交互式 Web 应用，旨在对电子商务交易数据进行深度分析和可视化。用户可以通过这个仪表板直观地了解销售趋势、客户行为、国家分布和产品表现。
 
-**[>> 点击这里访问在线演示 <<]([https://your-app-url.streamlit.app](https://ecommerce-analysisqqw.streamlit.app/))**
+**[>> 点击这里访问在线演示 <<](https://ecommerce-analysisqqw.streamlit.app/)**
 
 *(注意：请在将应用部署到 Streamlit Community Cloud 后，将上面的 `https://your-app-url.streamlit.app` 替换为您的实际应用链接)*
 
